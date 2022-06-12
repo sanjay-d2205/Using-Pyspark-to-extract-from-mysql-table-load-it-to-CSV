@@ -2,8 +2,8 @@
 
 dependencies:
 *You have to install Spark on your machine.
-*you have add the mysql connector dependency jar to spark folder
-    eg:C:\spark-3.0.3-bin-hadoop3.2\spark-3.0.3-bin-hadoop3.2\jars
+*you have add the mysql connector dependency jar to spark folder <br />
+    eg:C:\spark-3.0.3-bin-hadoop3.2\spark-3.0.3-bin-hadoop3.2\jars <br />
     you can download it from:
     https://jar-download.com/artifacts/mysql/mysql-connector-java/8.0.11/source-code
     otherwise you can also uncomment the 1st 2 lines of the code.
